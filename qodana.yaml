@@ -1,0 +1,5 @@
+exclude:
+  - name: All
+    paths:
+      - src/Lucene.Net.Analysis.Common/Analysis/Standard
+      - Lucene.Net.Analysis.Common/Analysis/Standard
